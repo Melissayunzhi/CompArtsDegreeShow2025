@@ -130,14 +130,9 @@ a:hover {
     .body{
         overflow-x: hidden;
     }
-    .nav-item {
-        font-size: 0.8rem;
-    }
+
     .gallery-grid {
         grid-template-columns: repeat(1, 1fr); /* 1 image per row on very small screens */
     }
-    .gallery-item img {
-        width: auto;
-        height: auto;
-    }
+    
 }
